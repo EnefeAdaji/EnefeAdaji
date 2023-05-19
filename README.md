@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Enefe Queen.
-- 👀 My passion is using data analytics to improve healthcare proccesses, performance and business decision making.
+- 👀 I am passionate about using data analytics to improve healthcare proccesses, performance and decision-making.
 - 🌱 I’m skilled in Microsoft Excel, SQL, Tableau and Power BI. 
-- 💞️ I’m looking to collaborate on any data analytics projects especially healthcare related projects. 
-- 📫 You can send me an email at: adajienefe@gmail.com
+- 💞️ I’m looking for opportunities in data analytics and performance improvements. 
+- 📫 You can send me an email at: enefeadaji@my.unthsc.edu
 
 <!---
 EnefeAdaji/EnefeAdaji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
